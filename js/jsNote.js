@@ -2,6 +2,8 @@
 //  \    转义符
 //  ${}  占位符
 
+var s = 6;
+
 let variable = "变量";  //let定义变量
 const constant = "常量";//const定义常量
 
